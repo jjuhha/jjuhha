@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jjuhha
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science
+- 👀 I’m data specialist
 
 <!---
 jjuhha/jjuhha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
