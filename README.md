@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jjuhha
+- 👋 Hi, I’m juha
 - 👀 I’m data specialist
 
 <!---
